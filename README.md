@@ -1,0 +1,1 @@
+# iran-mining-ai-platform
