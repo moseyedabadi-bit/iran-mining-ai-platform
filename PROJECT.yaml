@@ -1,0 +1,33 @@
+schema_version: 1
+project:
+  name: Iran-Mining-AI-Platform
+  type: mining-operations-intelligence-platform-concept
+  status: early-architecture-business-concept
+  domains:
+    - mining
+    - artificial-intelligence
+    - fleet-management
+    - predictive-maintenance
+    - operations-optimization
+  human_entry: README.md
+  ai_entry: llms.txt
+  documentation_root: docs/
+  author:
+    name: Mostafa Seyedabadi
+modules:
+  - fleet-intelligence
+  - dispatch-optimization
+  - predictive-maintenance
+  - fuel-optimization
+  - production-forecasting
+  - persian-mining-copilot
+interpretation:
+  deployment_claim: false
+  customer_claim: false
+  vendor_affiliation_claim: false
+  validated_productivity_gain_claim: false
+  requires_domain_validation: true
+safety:
+  human_supervision_for_safety_critical_operations: true
+  prohibit_secrets: true
+  prohibit_private_operational_data: true
