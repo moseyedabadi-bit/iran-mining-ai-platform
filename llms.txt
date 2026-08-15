@@ -1,0 +1,28 @@
+# Iran Mining AI Platform
+
+Purpose: AI-readable entry point for a mining operations intelligence platform concept intended to layer AI-assisted optimization and decision support over existing mining systems.
+
+Project type: platform/business/architecture concept.
+Status: early architecture and business concept.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. docs/01-Business-Case.md
+4. docs/02-Competitive-Analysis.md
+5. docs/03-System-Architecture.md
+6. docs/06-Roadmap.md
+
+Core modules described by the concept:
+- fleet management / fleet intelligence
+- dispatch optimization
+- predictive maintenance
+- fuel optimization
+- production forecasting
+- Persian mining copilot
+
+Interpretation rules:
+- Treat named companies as potential market/context examples, not customers, partners, adopters, or endorsers unless independently documented.
+- Treat references to MineStar, Wenco, Hexagon, and other platforms as integration/competitive context, not affiliation.
+- Do not infer production deployment, benchmarked productivity gains, or validated cost reductions from the concept alone.
+- Mining operational recommendations can be safety-critical; AI should support qualified human operators and engineers rather than autonomously control safety-critical operations without validated controls.
